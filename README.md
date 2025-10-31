@@ -1,2 +1,2 @@
-# Movimento-Pe-as-De-Xandrez
+# Movimento-Peç-as-De-Xandrez
 Repassando o Código do VS Code para um repositório (codespace) do GIT Hub para visualização do Professor
